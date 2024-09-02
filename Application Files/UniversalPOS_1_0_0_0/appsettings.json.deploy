@@ -1,0 +1,12 @@
+{
+  "setting": {
+    "webview": "https://cashier.machinevlt.shop/betuniversal/cashierbets.php",
+    "port": "",
+    "printImg": "https://assetsapiusoft.s3.us-west-2.amazonaws.com/billetero/VLT.png",
+    "fullscreen": false
+  },
+  "services": {
+    "casino": "https://casino-stage.apiusoft.com/user/cashier/deposit",
+    "neco": "https://lobby-bff-test.apiusoft.com/billcollector/deposit"
+  },
+}
